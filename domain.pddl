@@ -1,3 +1,5 @@
+;;; Artificial Intelligence course, Professor Tsz-Chiu Au ;;;
+;; Programming assignment 5: Planning Domain Definition Language ;;;
 ;;; Aibek Smagulov 20142028 smagulovaybek@gmail.com ;;;
 
 (define (domain pyramid-domain)
