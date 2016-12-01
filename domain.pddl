@@ -124,7 +124,7 @@
                         (covers ?y ?x)
                         (not (covers ?x ?y))
                         (not (waste ?x))
-                        (not (waste ?))
+                        (not (waste ?y))
                         (deck ?x)
                         (deck ?y)
                     )
